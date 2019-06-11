@@ -1,12 +1,12 @@
 
-require_relative './models/service'
-require_relative './models/serviceProvider'
-require_relative './models/appointment'
-require_relative './models/timeblock'
+require_relative './files/service'
+require_relative './files/serviceProvider'
+require_relative './files/appointment'
+require_relative './files/timeblock'
 require_relative './print'
 require_relative './seeder/init'
 require_relative './lib/colors'
-require_relative './models/availability'
+require_relative './files/availability'
 require 'tty-prompt'
 $prompt = TTY::Prompt.new
 
