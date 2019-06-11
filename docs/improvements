@@ -37,8 +37,8 @@ timeblock
     
 
 Commitments:
-Organize the files into folders
+-------------------------Organize the files into folders
+Verify user inputs
 Add more tests
 Break up the main file into smaller files
 Refine the availability function to show service providers availability
-Verify user inputs
